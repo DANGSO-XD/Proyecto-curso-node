@@ -1,0 +1,27 @@
+{
+  "name": "mi-primer-proyecto",
+  "version": "0.0.1",
+  "description": "este es mi primer proyecto con node ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DANGSO-XD/Proyecto-curso-node.git"
+  },
+  "keywords": [
+    "primer",
+    "node",
+    "ejemplo"
+  ],
+  "author": "DANGSO_XD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DANGSO-XD/Proyecto-curso-node/issues"
+  },
+  "homepage": "https://github.com/DANGSO-XD/Proyecto-curso-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
