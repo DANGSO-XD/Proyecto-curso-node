@@ -1,2 +1,2 @@
 const colors = require('colors')
-console.log("hola mundo".bgCyan)
+console.log("hola mundo".rainbow)
